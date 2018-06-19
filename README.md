@@ -1,4 +1,4 @@
-# Optimal production planning with single-level (absolute distance penalty approach)  
+# Optimal production planning with single-level (square distance penalty approach)  
 ##### An optimization test suite involving 54 continuous variables
 
 This submission can be used to evaluate the performance of optimization techniques on problems with continuous variables. This optimization problem arises for maximization of profit in production planning. However these files can be used as black-box optimization problems.
